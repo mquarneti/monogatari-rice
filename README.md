@@ -15,6 +15,13 @@ https://github.com/keeferrourke/la-capitaine-icon-theme
 
 ---
 
+## Cursor
+https://github.com/KDE/breeze
+
+Light variant
+
+---
+
 ## Terminal emulator
 https://gnunn1.github.io/tilix-web/
 
