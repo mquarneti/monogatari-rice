@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+/usr/bin/gsettings set org.gnome.shell.extensions.user-theme name 'United-Debian'
+/usr/bin/gsettings set org.gnome.desktop.interface gtk-theme 'United-Debian'
+/usr/bin/gsettings set org.gnome.desktop.background picture-uri '/home/manuelq/Immagini/hitagi.png'
